@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\bin\Debug\DesafioMultp3.exe.config
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\bin\Debug\DesafioMultp3.exe
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\bin\Debug\DesafioMultp3.pdb
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\obj\Debug\DesafioMultp3.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\obj\Debug\DesafioMultp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\obj\Debug\DesafioMultp3.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\obj\Debug\DesafioMultp3.exe
+C:\Users\Victor\Programacao\CSharp\DesafioMultp3\obj\Debug\DesafioMultp3.pdb

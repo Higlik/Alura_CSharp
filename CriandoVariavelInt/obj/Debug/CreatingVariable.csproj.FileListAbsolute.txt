@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\bin\Debug\CreatingVariable.exe.config
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\bin\Debug\CreatingVariable.exe
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\bin\Debug\CreatingVariable.pdb
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\obj\Debug\CreatingVariable.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\obj\Debug\CreatingVariable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\obj\Debug\CreatingVariable.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\obj\Debug\CreatingVariable.exe
+C:\Users\Victor\Programacao\CSharp\CreatingVariable\obj\Debug\CreatingVariable.pdb

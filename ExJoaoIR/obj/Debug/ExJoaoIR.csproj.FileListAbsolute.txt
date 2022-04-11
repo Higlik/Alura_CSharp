@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\bin\Debug\ExJoaoIR.exe.config
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\bin\Debug\ExJoaoIR.exe
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\bin\Debug\ExJoaoIR.pdb
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\obj\Debug\ExJoaoIR.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\obj\Debug\ExJoaoIR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\obj\Debug\ExJoaoIR.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\obj\Debug\ExJoaoIR.exe
+C:\Users\Victor\Programacao\CSharp\ExJoaoIR\obj\Debug\ExJoaoIR.pdb
