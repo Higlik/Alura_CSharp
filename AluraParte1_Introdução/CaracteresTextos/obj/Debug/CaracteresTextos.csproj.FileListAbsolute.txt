@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\bin\Debug\CaracteresTextos.exe.config
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\bin\Debug\CaracteresTextos.exe
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\bin\Debug\CaracteresTextos.pdb
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\obj\Debug\CaracteresTextos.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\obj\Debug\CaracteresTextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\obj\Debug\CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\obj\Debug\CaracteresTextos.exe
+C:\Users\Victor\Programacao\CSharp\CaracteresTextos\obj\Debug\CaracteresTextos.pdb

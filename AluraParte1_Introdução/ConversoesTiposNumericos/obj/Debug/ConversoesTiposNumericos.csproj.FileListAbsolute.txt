@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\bin\Debug\ConversoesTiposNumericos.exe.config
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\bin\Debug\ConversoesTiposNumericos.exe
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\bin\Debug\ConversoesTiposNumericos.pdb
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\obj\Debug\ConversoesTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\obj\Debug\ConversoesTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\obj\Debug\ConversoesTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\obj\Debug\ConversoesTiposNumericos.exe
+C:\Users\Victor\Programacao\CSharp\ConversoesTiposNumericos\obj\Debug\ConversoesTiposNumericos.pdb

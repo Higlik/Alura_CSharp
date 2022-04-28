@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\bin\Debug\TreinoAluraCap1.exe.config
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\bin\Debug\TreinoAluraCap1.exe
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\bin\Debug\TreinoAluraCap1.pdb
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\obj\Debug\TreinoAluraCap1.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\obj\Debug\TreinoAluraCap1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\obj\Debug\TreinoAluraCap1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\obj\Debug\TreinoAluraCap1.exe
+C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\TreinoAluraCap1\obj\Debug\TreinoAluraCap1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\bin\Debug\7-ByteBank.exe.config
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\bin\Debug\7-ByteBank.exe
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\bin\Debug\7-ByteBank.pdb
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\obj\Debug\7-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\obj\Debug\7-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\obj\Debug\7-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\obj\Debug\7-ByteBank.exe
+C:\Users\Victor\Programacao\CSharp\AluraParte2\7-ByteBank\obj\Debug\7-ByteBank.pdb

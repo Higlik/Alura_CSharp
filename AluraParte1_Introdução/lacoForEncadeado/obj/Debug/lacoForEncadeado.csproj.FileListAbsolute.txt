@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\bin\Debug\lacoForEncadeado.exe.config
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\bin\Debug\lacoForEncadeado.exe
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\bin\Debug\lacoForEncadeado.pdb
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\obj\Debug\lacoForEncadeado.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\obj\Debug\lacoForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\obj\Debug\lacoForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\obj\Debug\lacoForEncadeado.exe
+C:\Users\Victor\Programacao\CSharp\lacoForEncadeado\obj\Debug\lacoForEncadeado.pdb

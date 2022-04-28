@@ -1,0 +1,8 @@
+C:\Users\Victor\Programacao\CSharp\Condicionais\bin\Debug\Condicionais.exe.config
+C:\Users\Victor\Programacao\CSharp\Condicionais\bin\Debug\Condicionais.exe
+C:\Users\Victor\Programacao\CSharp\Condicionais\bin\Debug\Condicionais.pdb
+C:\Users\Victor\Programacao\CSharp\Condicionais\obj\Debug\Condicionais.csproj.AssemblyReference.cache
+C:\Users\Victor\Programacao\CSharp\Condicionais\obj\Debug\Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victor\Programacao\CSharp\Condicionais\obj\Debug\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Programacao\CSharp\Condicionais\obj\Debug\Condicionais.exe
+C:\Users\Victor\Programacao\CSharp\Condicionais\obj\Debug\Condicionais.pdb
