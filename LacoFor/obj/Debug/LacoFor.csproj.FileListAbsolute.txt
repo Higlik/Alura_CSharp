@@ -1,8 +1,0 @@
-C:\Users\Victor\Programacao\CSharp\LacoFor\bin\Debug\LacoFor.exe.config
-C:\Users\Victor\Programacao\CSharp\LacoFor\bin\Debug\LacoFor.exe
-C:\Users\Victor\Programacao\CSharp\LacoFor\bin\Debug\LacoFor.pdb
-C:\Users\Victor\Programacao\CSharp\LacoFor\obj\Debug\LacoFor.csproj.AssemblyReference.cache
-C:\Users\Victor\Programacao\CSharp\LacoFor\obj\Debug\LacoFor.csproj.SuggestedBindingRedirects.cache
-C:\Users\Victor\Programacao\CSharp\LacoFor\obj\Debug\LacoFor.csproj.CoreCompileInputs.cache
-C:\Users\Victor\Programacao\CSharp\LacoFor\obj\Debug\LacoFor.exe
-C:\Users\Victor\Programacao\CSharp\LacoFor\obj\Debug\LacoFor.pdb

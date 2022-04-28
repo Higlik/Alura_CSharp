@@ -1,8 +1,0 @@
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\bin\Debug\DesafioFatorial.exe.config
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\bin\Debug\DesafioFatorial.exe
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\bin\Debug\DesafioFatorial.pdb
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.AssemblyReference.cache
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.SuggestedBindingRedirects.cache
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.CoreCompileInputs.cache
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\obj\Debug\DesafioFatorial.exe
-C:\Users\Victor\Programacao\CSharp\DesafioFatorial\obj\Debug\DesafioFatorial.pdb

@@ -1,8 +1,0 @@
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\bin\Debug\Condicionais2.exe.config
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\bin\Debug\Condicionais2.exe
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\bin\Debug\Condicionais2.pdb
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\obj\Debug\Condicionais2.csproj.AssemblyReference.cache
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\obj\Debug\Condicionais2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\obj\Debug\Condicionais2.csproj.CoreCompileInputs.cache
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\obj\Debug\Condicionais2.exe
-C:\Users\Victor\Programacao\CSharp\TreinoAluraCap1\Condicionais2\obj\Debug\Condicionais2.pdb

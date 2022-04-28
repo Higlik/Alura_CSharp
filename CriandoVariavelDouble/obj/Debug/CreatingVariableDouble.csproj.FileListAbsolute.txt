@@ -1,8 +1,0 @@
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\bin\Debug\CreatingVariableDouble.exe.config
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\bin\Debug\CreatingVariableDouble.exe
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\bin\Debug\CreatingVariableDouble.pdb
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\obj\Debug\CreatingVariableDouble.csproj.AssemblyReference.cache
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\obj\Debug\CreatingVariableDouble.csproj.SuggestedBindingRedirects.cache
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\obj\Debug\CreatingVariableDouble.csproj.CoreCompileInputs.cache
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\obj\Debug\CreatingVariableDouble.exe
-C:\Users\Victor\Programacao\CSharp\CreatingVariableDouble\obj\Debug\CreatingVariableDouble.pdb
